@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/kakashi.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "kakashi WITH SHARINGAN";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My 1st game using javascript🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "I have created a game using javascript. It is a simple game when you have no internet access you jump the box by touching it. I have used HTML, CSS and Javascript to create this game.",
+    url: "https://github.com/sneha9231/js_game",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Learning ML with Microsoft Learn",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Learnt some basics of ML with Microsoft Learn. I have learnt about the basics of ML and how to use it in real life. I have also learnt about the basics of python and how to use it in ML.",
+    url: "https://github.com/sneha9231/emotion-based-music",
   },
   {
-    title: "My Resume Site",
+    title: "Contributed in Hacktoberfest 2023",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "My first contribution in open source. I have contributed in Hacktoberfest 2023. I have contributed in devFind. I have added a new feature in devFind.",
+    url: "https://github.com/sneha9231/devFind",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Made Chatbot using Azure Services",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Went to Jabalbur for Hackathon and built azure chatbot. I have used Azure services to create a chatbot. I have used Azure QnA maker, Azure Bot Service and Azure Web App Service to create a chatbot.",
+    url: "https://github.com/sneha9231/chatbot",
   },
 ];
 

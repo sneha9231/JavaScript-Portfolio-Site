@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/naru.jpg";
+import image from "../images/itachi.jpg";
 
 const imageAltText = "naruto in rain";
 
